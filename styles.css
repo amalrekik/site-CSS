@@ -1,0 +1,118 @@
+.divcentre {
+  
+    text-align: center; 
+}
+.divdte {
+  
+    text-align: right; 
+}
+.alin {
+    width: 60px;
+    height: 20px;
+    display: inline-block;
+}
+.BOX1 {
+    text-align: center; 
+    height : 400px;
+    width: 100%;
+    background: rgba(241, 215, 236, 0.726);
+    
+}
+
+.BOX2{
+        height: 250px;
+       width: 1330;
+        display: inline-block;
+}
+.boxsize {
+    font-size: 70px;
+  }
+  .boxcolor {
+    color: rgb(90, 19, 66);
+  }
+  .boxcolor2 {
+    color: rgb(192, 5, 130);
+  }
+  .boxcolor3 {
+    color: rgb(93, 18, 155);
+  }
+  .ECRITURE {
+    font-family: roboto ;
+  }
+  .alinn {
+    height : 10px;
+    display: inline-block;
+  }
+  .boxsize2 {
+    font-size: 40px;
+  }
+  .BOX3 {
+    text-align: center; 
+    height : 50Px;
+    width: 100%;
+    background: MISTYROSE;
+    font-size: 40px;
+}
+.test {
+    width: 48%;
+    height: 350px;
+    display: inline-block;
+  }
+.box-2 {
+    width: 900px;
+    height: 350px;
+    background: blue;
+    visibility: hidden;
+  }
+  .modtab {
+    width:1150px;
+    text-align: center;
+    background-color:#f0cbe5;
+    font-size: 20px;
+  }
+
+  .MODTAB1{
+ width:150px;
+ background-color:#c77db7;
+ font-size: 20px;
+  }
+  .BOX4 {
+    text-align: center; 
+    height : 50Px;
+    width: 1330px;
+    background: MISTYROSE;
+    font-size: 20px;}
+    .boxsize3 {
+        font-size: 30px;
+      }
+      .boxsize4 {
+        font-size: 20px;
+      }
+    .modP {
+        font-size: 20px;
+        text-align: center; 
+    }
+    .modform {
+        width:500px;
+        background-color:#f7e6ee;
+        font-size: 20px;
+      }
+
+      .invisible
+      {background-color: rgb(224, 220, 220);
+      padding: 5px;
+      width: 50px;
+      display: none;
+      border: 1px solid black;
+    }
+    .invisible2
+      {background-color: rgb(250, 215, 215);
+      padding: 3px;
+      width: 100px;
+      display: none;
+      border: 1px solid black;
+      text-align: center; }
+
+      .curs:hover + div{
+        display: block;
+      }
